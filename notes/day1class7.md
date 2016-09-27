@@ -1,2 +1,4 @@
 # Introduction to GOLD [Live Demo]
-<p style="text-align:right;"> *by Supratim Mukherjee* </p>
+*by Supratim Mukherjee*
+
+A project in GOLD is needed to start IMG pipeline.
