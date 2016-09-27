@@ -1,0 +1,13 @@
+
+=== Error correction and assembling warnings:
+ * 0:00:23.114    72M / 1G    WARN    General                 (kmer_coverage_model.cpp   : 382)   Failed to determine erroneous kmer threshold. Threshold set to: 24
+ * 0:00:33.337   120M / 1G    WARN    General                 (kmer_coverage_model.cpp   : 217)   Too many erroneous kmers, the estimates might be unreliable
+ * 0:00:40.682   120M / 1G    WARN    General                 (kmer_coverage_model.cpp   : 343)   Valley value was estimated improperly, reset to 10
+ * 0:00:40.683   120M / 1G    WARN    General                 (kmer_coverage_model.cpp   : 382)   Failed to determine erroneous kmer threshold. Threshold set to: 10
+ * 0:00:46.733   144M / 1G    WARN    General                 (kmer_coverage_model.cpp   : 343)   Valley value was estimated improperly, reset to 2
+ * 0:00:46.734   144M / 1G    WARN    General                 (kmer_coverage_model.cpp   : 382)   Failed to determine erroneous kmer threshold. Threshold set to: 2
+ * 0:00:55.203   144M / 1G    WARN    General                 (kmer_coverage_model.cpp   : 343)   Valley value was estimated improperly, reset to 6
+ * 0:00:55.203   144M / 1G    WARN    General                 (kmer_coverage_model.cpp   : 382)   Failed to determine erroneous kmer threshold. Threshold set to: 6
+ * 0:01:20.813    52M / 1G    WARN    General                 (pair_info_count.cpp       : 195)   Unable to estimate insert size for paired library #0
+ * 0:01:20.813    52M / 1G    WARN    General                 (pair_info_count.cpp       : 201)   None of paired reads aligned properly. Please, check orientation of your read pairs.
+======= Warnings saved to /Users/ortegad/Projects/repos/MGM-23/demos/example_assembly/sp_out/warnings.log

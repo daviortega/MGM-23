@@ -1,0 +1,23 @@
+---
+- type:            paired-end
+  orientation:     fr
+  left reads:      
+    - /Users/ortegad/Projects/repos/MGM-23/demos/example_assembly/sp_out/split_input/unmerged_1.fastq
+  right reads:     
+    - /Users/ortegad/Projects/repos/MGM-23/demos/example_assembly/sp_out/split_input/unmerged_2.fastq
+  single reads:    
+    - /Users/ortegad/Projects/repos/MGM-23/demos/example_assembly/merged.fq.gz
+  read length:     325
+  average read length: 289.234
+  insert size mean: 0
+  insert size deviation: 0
+  insert size left quantile: 0
+  insert size right quantile: 0
+  insert size median: 0
+  insert size mad: 0
+  insert size distribution: {  }
+  average coverage: 60.7835
+  pi threshold:    0
+  binary converted: true
+  single reads mapped: true
+...

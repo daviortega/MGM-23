@@ -1,0 +1,5 @@
+- left reads: [/Users/ortegad/Projects/repos/MGM-23/demos/example_assembly/sp_out/split_input/unmerged_1.fastq]
+  orientation: fr
+  right reads: [/Users/ortegad/Projects/repos/MGM-23/demos/example_assembly/sp_out/split_input/unmerged_2.fastq]
+  single reads: [/Users/ortegad/Projects/repos/MGM-23/demos/example_assembly/merged.fq.gz]
+  type: paired-end
