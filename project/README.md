@@ -43,14 +43,11 @@ Export
 
 ## Metagenomes
 
-| Id	|Habitat|	Location|	genes assembled|
-|--|--|--|--|
+|  Id	| Habitat | Location | genes assembled |
+|----|--------|----------|-------------------|
 | 3300010047 |	Tropical forest |	Panama |	43540517|
 | 3300010043 |	Tropical forest |	Panama |	41840052|
-
-
-
-| 3300001075 |	Tropical forest |	Puerto Rico|	10756460|
+| 3300001075 |	Tropical forest |	Puerto Rico|10756460|
 | 3300001285 |	Tropical forest |	Puerto Rico|	7336499|
 | 3300002548 | Polar desert |	Antarctica |	9353891|
 | 3300002547 |	Polar desert |	Antarctica |	5705878|
