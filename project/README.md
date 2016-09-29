@@ -43,7 +43,7 @@ Export
 
 ## Metagenomes
 
-| Metagenome |Id	|Habitat|	Location|	genes assembled|
+| Id	|Habitat|	Location|	genes assembled|
 |--|--|--|--|
 | 3300010047 |	Tropical forest |	Panama |	43540517|
 | 3300010043 |	Tropical forest |	Panama |	41840052|
