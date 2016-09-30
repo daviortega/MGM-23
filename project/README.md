@@ -51,8 +51,8 @@ Export
 | 3300001285 |	Tropical forest |	Puerto Rico|	7336499|
 | 3300002548 | Polar desert |	Antarctica |	9353891|
 | 3300002547 |	Polar desert |	Antarctica |	5705878|
-| 3300005506 |	desert |	Colorado |	1438501 |
-| 3300005505 |	desert |	Colorado |	1213434 |
+| 3300005506 |	Desert |	Colorado |	1438501 |
+| 3300005505 |	Desert |	Colorado |	1213434 |
 | 3300001471 |	Forest |	Ontario |	69936265 |
 | 3300001546 |	Forest |	Ontario |	56342524 |
 | 3300009010 |	Arctic |	Alaska |	40596753 |
